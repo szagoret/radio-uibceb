@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c8c8a9f2b7af779deadfba26f40feb5",
+    "revision": "f98bf2624439ba01bcabbb2e5ffd3856",
     "url": "/radio-uibceb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/radio-uibceb/static/css/2.18fb2ca0.chunk.css"
   },
   {
-    "revision": "eba69068b3f557664fe0",
+    "revision": "6b86c775746ed9853919",
     "url": "/radio-uibceb/static/css/main.a40ac9f3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/radio-uibceb/static/js/2.bdd13c08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eba69068b3f557664fe0",
-    "url": "/radio-uibceb/static/js/main.36a59849.chunk.js"
+    "revision": "6b86c775746ed9853919",
+    "url": "/radio-uibceb/static/js/main.d06c3102.chunk.js"
   },
   {
     "revision": "97f3a5edd2fd1ff5ed51",
