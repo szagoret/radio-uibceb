@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/radio-uibceb/precache-manifest.30860bb25237a2f3959fb791f8cbd3c8.js"
+  "/radio-uibceb/precache-manifest.0d4e8e1a0e7ecf62c5c4f83efbfb8de7.js"
 );
 
 self.addEventListener('message', (event) => {
